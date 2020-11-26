@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">RSSFeeder</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">RSS Feeder</string>
+    <string name="nav_header_subtitle">dmitrii.obuh@isa.utm.md</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_add">Add RSS</string>
+
+    <string name="menu_home">RSS Feeder</string>
+    <string name="add_name">Name</string>
+    <string name="add_link">Link</string>
+    <string name="add_save">Save</string>
+    <string name="menu_clear">Clear cash</string>
+    <string name="menu_delete">Delete RSS</string>
+    <string name="menu_add">Add RSS</string>
+    <string name="deleteRss">Are you sure, you want to delete it.</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>
